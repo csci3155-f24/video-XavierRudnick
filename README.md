@@ -22,6 +22,6 @@ TODO: Replace with building and testing instructions. Please minimize the number
 TODO: Update the following links and remove this line.
 
 - YouTube: [https://youtu.be/project.](https://youtu.be/bMfQ7vTA9cs)
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
+- Script: (Pushed to repository)
 - Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf]([slides.pdf](https://docs.google.com/presentation/d/1gTBPrW_VnQ0O0_dbq6ArY76kvJrXdBaRRUzaOz3Phs8/edit?usp=sharing)) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- Slides (Pushed to repository)
