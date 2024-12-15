@@ -15,7 +15,7 @@ TODO: Replace this with a description of the organization of your repository.
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+TODO: To use Tensorflow framework, update terminal to have current version of python downloaded. Next pip instal tensorflow. Thats it, tensorflow is very simple to download and use.
 
 ## Presentation
 
