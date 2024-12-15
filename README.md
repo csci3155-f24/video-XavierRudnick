@@ -23,5 +23,5 @@ TODO: Update the following links and remove this line.
 
 - YouTube: [https://youtu.be/project.](https://youtu.be/bMfQ7vTA9cs)
 - Script: (Pushed to repository)
-- Recording: [recording.mp4](recording.mp4).
+- Recording: [recording.mp4]([recording.mp4](https://drive.google.com/file/d/1b8jPpUBAXHKkNFYmHn_SpV9G4Dcj_1qe/view?usp=drive_link)).
 - Slides (Pushed to repository)
